@@ -37,8 +37,8 @@ I was also impressed to see graduation project that each student at Elisava has 
 
 Skills/Knowledge/Altitude
 
-![](../images/personaldevelopment1.jpg)
-![](../images/personaldevelopment2.jpg)
+![](../images/pd1.eps)
+![](../images/pd2.eps)
 
 Personal vision is something I have never tried to think of before because I had a tiny tiny goal for everything I did that won’t improve me at all.  When I thought of it and actually had a meeting with other people to exchange our visions, it somehow improved me to have a real goal I want to achieve every week of our session. 
 
