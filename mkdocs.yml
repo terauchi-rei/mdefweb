@@ -1,32 +1,29 @@
-# Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: Rei Terauchi - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
-copyright: Copyleft 2021 "Student Name" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+site_author: Rei Terauchi
+copyright: Copyleft 2021 "Rei Terauchi" - GNU Free Documentation License
+repo_name: 'mdefweb : Github Repo'
+site_url: https://terauchi-rei.github.io/mdefweb/
+repo_url: 'https://github.com/terauchi-rei/mdefweb'
 
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
     - icon: fontawesome/brands/medium
-      link: https://medium.com/
+      link: https://medium.com/@reiterauchi
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: https://instagram.com/ponpon0505/
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/
-    - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
+      link: https://twitter.com/fujisanrei
     - icon: fontawesome/brands/github
-      link: "https://github.com/"
+      link: "https://github.com/terauchi-rei"
 
 theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: white
-    accent: purple
+    primary: pink
+    accent: white
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam

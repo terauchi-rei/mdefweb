@@ -1,7 +1,9 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/ABOUT/rei.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi, I am Rei Terauchi who is attending MDEF at IaaC 2021-22. I have been studying urban design and architecture. I am currently interested in soil and trying to make it into a new intervention. I also publish annual magazine in Japan, check it out on  **[HUMARIZINE](https://humarizine.com/)**
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
