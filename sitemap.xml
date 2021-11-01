@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/</loc>
-         <lastmod>2021-10-18</lastmod>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/about/about/</loc>
-         <lastmod>2021-10-18</lastmod>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://terauchi-rei.github.io/mdefweb/project/project/</loc>
-         <lastmod>2021-10-18</lastmod>
+         <loc>https://terauchi-rei.github.io/mdefweb/project/designspace/</loc>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/seminars/01-Bootcamp/</loc>
-         <lastmod>2021-10-18</lastmod>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/seminars/02-AoWS/</loc>
-         <lastmod>2021-10-18</lastmod>
+         <lastmod>2021-11-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://terauchi-rei.github.io/mdefweb/seminars/03-Bio%26Agri/</loc>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
