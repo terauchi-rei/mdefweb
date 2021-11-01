@@ -14,7 +14,7 @@ This week was a first week after 2021 academic year has officially started at Ia
 
 My Fight
 
-![](../images/poster1.jpg)
+![](../images/bootcamp/poster1.jpg)
 
 My fight is a bit too specific. I explained as I want to design the soil of urban areas using food waste to make compost out of it. Because I have doubts on urban infrastructure that is in a black box, like we will never know what is actually happening behind our scenes of life.  This black box situation is leading to people unconscious about making a huge amount of waste in industry or even at home. I am now willing to change that situation and make food waste into some kind of nutrition of cities which can become some food production-urban farming in a future. For that, my keywords will be circular design, soil design, food waste, compost, and urban farming.
 
@@ -25,7 +25,7 @@ My fight is a bit too specific. I explained as I want to design the soil of urba
 
 Elisava 
 
-![](../images/elisava.jpg)
+![](../images/bootcamp/elisava.jpg)
 
 Elisava tour was interesting as it is so much different from IaaC education and facility. They have basically every kind of machines- laser cutter, CNC router with 3 axis, 3D printers, coping machines, bio-related machines, and so on… Elisava is somehow so much like “academia” for me, though I think it is good for me to go both IaaC and Elisava, learning in between them.
 I was also impressed to see graduation project that each student at Elisava has developed.
@@ -37,8 +37,8 @@ I was also impressed to see graduation project that each student at Elisava has 
 
 Skills/Knowledge/Altitude
 
-![](../images/pd1.jpg)
-![](../images/pd2.jpg)
+![](../images/bootcamp/pd1.jpg)
+![](../images/bootcamp/pd2.jpg)
 
 Personal vision is something I have never tried to think of before because I had a tiny tiny goal for everything I did that won’t improve me at all.  When I thought of it and actually had a meeting with other people to exchange our visions, it somehow improved me to have a real goal I want to achieve every week of our session. 
 
@@ -49,7 +49,7 @@ Personal vision is something I have never tried to think of before because I had
 
 Gitlab Website
 
-![](../images/git.jpg)
+![](../images/bootcamp/git.jpg)
 
 Making website using gitlab is pretty hard. Also keeping website active is hard as well. I already have my website that I run with my friends and it is hard to keep it updated, so this is.  Git is so confusing but I tried.
 
@@ -59,7 +59,7 @@ Making website using gitlab is pretty hard. Also keeping website active is hard 
 
 Poblenou 
 
-![](../images/poblenou.jpg)
+![](../images/bootcamp/poblenou.jpg)
 
 Poblenou is such an inspiring place. I can find anything nice here. It is said Poblenou 10 years ago was nothing, though these 10 years artists and designers started to move here and became such a lovely neighborhood. I tried to find a flat in Poblenou, though it was kind of expensive and very popular. I hope this place is not going to be like Brooklyn where gentrification has happened after artists started to live.( well I don’t think so)
 
