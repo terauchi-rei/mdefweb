@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/</loc>
-         <lastmod>2021-11-07</lastmod>
+         <lastmod>2021-11-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/about/about/</loc>
-         <lastmod>2021-11-07</lastmod>
+         <lastmod>2021-11-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/project/Design%20Space/</loc>
-         <lastmod>2021-11-07</lastmod>
+         <lastmod>2021-11-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/seminars/01-Bootcamp/</loc>
-         <lastmod>2021-11-07</lastmod>
+         <lastmod>2021-11-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/seminars/02-Atlas%20of%20Weak%20Signals/</loc>
-         <lastmod>2021-11-07</lastmod>
+         <lastmod>2021-11-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/seminars/03-Bio%26Agri%20Zero/</loc>
-         <lastmod>2021-11-07</lastmod>
+         <lastmod>2021-11-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/seminars/04-Living%20with%20Your%20Own%20Ideas/</loc>
-         <lastmod>2021-11-07</lastmod>
+         <lastmod>2021-11-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://terauchi-rei.github.io/mdefweb/seminars/05-Tech%20Beyond%20the%20Myth/</loc>
+         <lastmod>2021-11-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
