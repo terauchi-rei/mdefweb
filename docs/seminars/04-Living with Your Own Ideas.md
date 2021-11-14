@@ -3,7 +3,9 @@ hide:
     - toc
 ---
 
-#Living with Your Own Ideas Nov.2-5
+**Living with Your Own Ideas Nov.2-5**
+====================
+
 
 <For magical machine>
 This is the machine I made.

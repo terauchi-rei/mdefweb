@@ -3,7 +3,9 @@ hide:
     - toc
 ---
 
-Bio&Agri Zero Oct.19-29
+**Bio&Agri Zero Oct.19-29**
+====================
+
 These last two weeks we have been exploring the possibilities of biology and agriculture especially in the design field. What we learned in the class was basically the basics of biology and agriculture. We had a lot of hands-on experiments and learning of basic contents.
 
 First week we learned about what biology is and the first thing we started off with was growing baterias in a container, which is bacteria we got from around IaaC. I rubbed a tree surface and my iPhone and rubbed medium in a container. As time passes,  I have noticed , in this world there are microorganisms/bacterias everywhere. This is why we really need to wash or sanitize our hands now.
@@ -31,6 +33,19 @@ The lecture ended with bioplastic cooking. My group followed the direction and r
 ・ Agriculture is a tool of survival  that human beings have invented to live but even agriculture is in survival now. What do we do?
 ・ Bioplastics are a hot trend now but they also require energy. 
 ・ Fermentation is used in daily products especially in food production. Can its process be used for hard things like furniture, architectural material, cloth or etc
+
+
+Scientific Paper Review
+
+#Science paper Energy from Waste: Reuse of Compost Heat as a Source of Renewable Energy 
+https://www.hindawi.com/journals/ijce/2010/627930/
+
+#summary
+This paper was estimating if we could use the heart that is created by waste compost, into an energy source. It was analyzing how much energy it can create for heating up water and space using an example of a real  composting plant. Also it analyzes how much cost we need for it to be competitive with other energy systems, by designing a new way of getting energy from a compost plant. In conclusion, it was both doable and cheaper in comparison to other systems so that heat from compost is a realistic solution for nowadays energy problems.
+
+#What I learned 
+I was originally interested in compost since undergrad and had been making compost for the past two years. I was always thinking of how we can actually turn compost into something reusable because there are not many ways to reuse it.  Only we can come up with is to use compost as fertilizer. Though, not many people actually grow plants nor use compost. ( I hope I also want to work on this problem too) Then I found this article that compost makes energy. This paper was talking about the system of making compost energy, though as a designer I want to design something that everyone can get involved in this process of producing energy through composting. Since my objective is why everything around my life is in black box, I think everyone should be more responsible for at least something and they should be involved in the system. This made me think that compost energy can be a tool or platform for people who compost at home and produce energy for their use at home and I now want to design it just like the example of Precious Plastic.
+
 
 
 

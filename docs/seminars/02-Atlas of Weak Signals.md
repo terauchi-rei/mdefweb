@@ -3,8 +3,10 @@ hide:
     - toc
 ---
 
+**Atlas of Weak Signals Oct.11-15**
+====================
 
-Atlas of Weak Signals Oct.11-15 
+
 This week, we had a session about atlas of weak signals.
 Weak signals are analysis of the main change factors that shows certain directions of now day society.
 
