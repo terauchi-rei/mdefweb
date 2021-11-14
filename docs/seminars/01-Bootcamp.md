@@ -2,17 +2,13 @@
 hide:
     - toc
 ---
+**Bootcamp Oct.4-8**
+====================
 
-* What did you do that is new. What did you learn?
-* How can your learning process be described? Please use bullet points.
-* How is this relevant to your work and personal development?
-
-
-Oct.4-8 
 This week was a first week after 2021 academic year has officially started at IaaC and our course MDEF. As everyone gathered for the first time in our classroom, we started to exchange our beliefs that also explains our fight.
 
 
-My Fight
+##My Fight
 
 ![](../images/bootcamp/poster1.jpg)
 
@@ -23,7 +19,7 @@ My fight is a bit too specific. I explained as I want to design the soil of urba
 ・ I was able to imagine that I can collaborate with someone when working on a real project in a future.
 
 
-Elisava 
+##Elisava 
 
 ![](../images/bootcamp/elisava.jpg)
 
@@ -35,7 +31,7 @@ I was also impressed to see graduation project that each student at Elisava has 
 ・ Thesis examples from past year’s students that Oscar showed us really pushed me to work hard.
 
 
-Skills/Knowledge/Altitude
+##Skills/Knowledge/Altitude
 
 ![](../images/bootcamp/pd1.jpg)
 ![](../images/bootcamp/pd2.jpg)
@@ -47,7 +43,7 @@ Personal vision is something I have never tried to think of before because I had
 ・ It is always important to think about vision because it gives you some hints on your work as well.
 
 
-Gitlab Website
+##Gitlab Website
 
 ![](../images/bootcamp/git.jpg)
 
@@ -57,7 +53,7 @@ Making website using gitlab is pretty hard. Also keeping website active is hard 
 ・ it is important to reflect what you’ve learnt and archive it in order to improve yourself.
 
 
-Poblenou 
+##Poblenou 
 
 ![](../images/bootcamp/poblenou.jpg)
 
@@ -72,5 +68,5 @@ Poblenou is such an inspiring place. I can find anything nice here. It is said P
 
 I used to do urban design with research and also a bit of architecture. Somehow there is many people thinking about how to make this place better and really work on it. This means there is many ways I can connect my interest to. I am really looking forward to collaborate with people or projects I have met this week.
 
-# Bootcamp
+
 

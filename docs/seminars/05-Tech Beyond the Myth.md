@@ -3,8 +3,138 @@ hide:
     - toc
 ---
 
-**Eating Space at IAAC 🍝**
-====================
+**Tech Beyond thE Myth first week Nov.8-12**
+===============
+
+
+#Forensic Report: iMac 2006
+
+
+![](../images/techbeyondthemyth/Imac_dis.jpg)
+
+
+| Identity of the reporting agency       | MDEF                           |
+|----------------------------------------|--------------------------------|
+| Case identifier                        | MDEF//21-22_Tech_beyond_the_myth  |
+| Identity of the submitter              | iMac Destructor    |
+| Date of receipt                        | 09/11/2021                     |
+| Date of report                         | 09/11/2021                     |
+| Identity and signature of the examiner | Emilio,Fioella,Andrea,Rei                     |
+ 
+
+## Examination 
+
+
+serial number:  CK6s0083WH4
+Brand: Apple (in California)
+Model: A1195 apple computer
+Color: White
+Assembled in: China
+Specifications: 1.83/2x512/160 combo/Esp 2006 
+Tested: Working
+
+:::
+
+
+## Forensic Questions
+
+
+---
+
+**How does it work?** 
+It is a personal computer , used for personal work  like word processors, it has a camera and microphone built in, for video calls for example, and also has a pair of speakers for sound reproducing.
+This model has an optical unit or CD/DVD ROM that can reproduce and burn cd/dvd. This could be used for playing videos or movies.
+This computer has a WIFI modem, so it can be connected to the internet.
+It had an Intel processor and 8 GB of RAM. It have a monitor and  3 USB ports, 2 input/output for audio and video, and Ethernet port
+This device could be used for personal use or work.
+
+
+:::
+
+## Steps taken
+First of all we checked if the computer worked. It can be switched on and on the screen appears the log in accounts. 
+We could check that the iMac worked but we couldn’t check if any program could be run. So, we cannot affirm if the iMac was discarded because of the requirements or utility. 
+
+![](../images/techbeyondthemyth/PROCESS1.jpg)
+
+We had to check a video to know how to start the disassembly of the computer. We started removing the front part of the case. In order to unscrew we had to find a specific screwdriver because of the special screws. 
+
+![](../images/techbeyondthemyth/PROCESS2.jpg)
+
+After that, we had to disassemble the camera and other devices such as the microphone that was attached to the case. Then we could separate the screen and some parts of the aluminium that covered the electronic system. 
+
+![](../images/techbeyondthemyth/PROCESS3.jpg)
+![](../images/techbeyondthemyth/PROCESS4.jpg)
+
+
+From this step it was all based on the electronic system behind the computer. We disassembled the motherboard and other components such as hard drive, heat sink, CD lector... 
+
+![](../images/techbeyondthemyth/PROCESS5.jpg)
+
+Details of some components:
+
+![](../images/techbeyondthemyth/PROCESS6.jpg)
+
+Datasheet for the logicboard (motherboard)
+http://www.barebonekit.net/apple-imac-a1195-820-1960-a-logic-board_i_mballpe8201960a.aspx
+
+
+![](../images/techbeyondthemyth/PROCESS7.gif)
+
+---
+
+## Results
+Q.How many motors we find inside, does it contain a computer or microcontroller?
+3 motors.  It contains a microcontroller.
+
+Q.Did the appliance fail, why?
+It was properly working when we turned it on.
+
+Q.Did the appliance failed?Why?
+This computer in particular still works fine but the capacity of the new equipment makes it obsolete and slow, not adequate to work with the requirements of the equipment, which is  the case of some of the electronic devices. It is not used because it is cheaper and accessible  to buy new equipment at a lower cost. Also hardware like the main processor is expensive and difficult to replace for a new one in order to maintain the device in optimal operation.The RAM memory could be replaced but it is difficult for anyone.
+Also Apple stops at certain points to release actualizations to the IOS so that lead to small failures and errors in everyday use.
+
+
+---
+
+## Conclusions
+It was all different kinds of functions and its parts combined in one box. Each functional part was connected to the motherboard with plugs in.
+
+Most of the parts are made by different suppliers. 
+
+Camera, speakers, disc utility, microphone, and hard drive are easy to recognize. 
+
+When we accidentally dropped the CPU to the floor, it bent and was unable to be used again. Some parts are really fragile when it's open.
+
+There are more than 100 screws used inside.
+
+Most of the metal parts are aluminum. Metals are both manufactured by stamping, the stand might be molded. 
+
+Plastic parts(box) are coated polycarbonate.
+
+Everything except the screen is covered with an aluminium sheet in order to avoid heat and radiation.
+
+Some screws are hidden and some parts are glued so that Apple technical support will be able to know if a user opens the computer by themself so that Apple will not support it anymore.
+
+
+## Opinions
+ At opening from the bottom there are two kind of screws, the normal one Phillips screwdriver, but they use a special type of head that is not available to general in public, so that doesn not allow anyone to open the device, you have to take it to Tech support in order to have it open and the computer
+
+The camera card is no attached to the led that show when it is turned on, they are two separates circuits,  so that opens a discussion about how that hardware is used, if it is fully controlled by the user with a physical switch or controlled by a backend command by the builder
+The body  it Is combined with the PC plastic and steel as a structure, aluminum is used as an isolation back and forward.
+
+There are a lot of boards with different materials, connectors , circuits and capacitors and disipators and most of them are fixed by special screws, almost 85% of them, the rest are regular screws.
+
+We can also find a few metals for heat displacement like aluminum and copper.
+
+There are also tiny plastic parts that make the connection to the back part of the computer and the boards or the optical unit to the lateral of the computer.
+
+![](../images/techbeyondthemyth/2021-11-09-151938 .jpg.jpg)
+
+
+
+#Eating Space at IAAC 🍝
+
 
 Measuring the world / A world in data activity report.
 **Andrea | Dídac | Kai | Rei | Ruben**
