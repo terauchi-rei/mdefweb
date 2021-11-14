@@ -10,7 +10,7 @@ hide:
 #Forensic Report: iMac 2006
 
 
-![](../images/techbeyondthemyth/Imac_dis.jpg)
+![](../images/techbeyonthemyth/Imac_dis.jpg)
 
 
 | Identity of the reporting agency       | MDEF                           |
@@ -55,31 +55,31 @@ This device could be used for personal use or work.
 First of all we checked if the computer worked. It can be switched on and on the screen appears the log in accounts. 
 We could check that the iMac worked but we couldn’t check if any program could be run. So, we cannot affirm if the iMac was discarded because of the requirements or utility. 
 
-![](../images/techbeyondthemyth/PROCESS1.jpg)
+![](../images/techbeyonthemyth/PROCESS1.jpg)
 
 We had to check a video to know how to start the disassembly of the computer. We started removing the front part of the case. In order to unscrew we had to find a specific screwdriver because of the special screws. 
 
-![](../images/techbeyondthemyth/PROCESS2.jpg)
+![](../images/techbeyonthemyth/PROCESS2.jpg)
 
 After that, we had to disassemble the camera and other devices such as the microphone that was attached to the case. Then we could separate the screen and some parts of the aluminium that covered the electronic system. 
 
-![](../images/techbeyondthemyth/PROCESS3.jpg)
-![](../images/techbeyondthemyth/PROCESS4.jpg)
+![](../images/techbeyonthemyth/PROCESS3.jpg)
+![](../images/techbeyonthemyth/PROCESS4.jpg)
 
 
 From this step it was all based on the electronic system behind the computer. We disassembled the motherboard and other components such as hard drive, heat sink, CD lector... 
 
-![](../images/techbeyondthemyth/PROCESS5.jpg)
+![](../images/techbeyonthemyth/PROCESS5.jpg)
 
 Details of some components:
 
-![](../images/techbeyondthemyth/PROCESS6.jpg)
+![](../images/techbeyonthemyth/PROCESS6.jpg)
 
 Datasheet for the logicboard (motherboard)
 http://www.barebonekit.net/apple-imac-a1195-820-1960-a-logic-board_i_mballpe8201960a.aspx
 
 
-![](../images/techbeyondthemyth/PROCESS7.gif)
+![](../images/techbeyonthemyth/PROCESS7.gif)
 
 ---
 
