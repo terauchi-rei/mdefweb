@@ -20,9 +20,45 @@ Ever since I am more comfortable prototyping with myself engaged, I decided to m
 My most preferable prototype method will be “means of inquiry”. My research type is always kind of ethnography and I like to do the probes and sometimes interview. 
 
 
-
-
 In my work space, I chose weak signals that are related to circular economy, sustainability, and inter-species which are the big topics of Anthropocene. 
 
-# Design Space
+
+## My First Prototype
+
+Since I was interested in bio related design, I decided to make the bioplastic.
+I first did the agar-agar one, then tried eggshell one.
+
+These are materials I used.
+![](../images/designspace/prototype.jpg)
+
+<For agar-agar>
+Recipe; https://materiom.org/recipe/41
+As I followed this recipe to heat the things in a pan and poured the solution into a container.
+
+![](../images/designspace/materials.jpg)
+![](../images/designspace/stir.jpg)
+
+I let them dry for 2 days and it still looks like this. It is not fully dried and still is jelly.I don't know if I did it differently or if I sit it more it is gonna look like bioplastic. Lt's see.
+
+![](../images/designspace/agarsolution.jpg)
+![](../images/designspace/agarresult.jpg)
+![](../images/designspace/agarresult2.jpg)
+
+<For eggshell>
+Recipe;https://materiom.org/recipe/623
+As I did using this recipe, I ignored vaccinium myrtillus L (Wild Bilberry powder) which I was not able to buy.
+
+I first boiled and dried eggshells then mushed it in little pieces.
+
+![](../images/designspace/eggshell.jpg)
+
+Rest of the process is similar to the agar-agar one.  I mixed solution and eggshell pieces at the end and poured in into a container.
+
+![](../images/designspace/stir2.jpg)
+
+ Next day when I checked it, it was kind of dried. Still, it seems not smooth because I didn't mush eggshells enough so it looks bumpy and rough. Maybe I need to buy a grinder.
+
+![](../images/designspace/eggresult.jpg)
+
+Next, I want to try throwing them away into a compost and see how my bioplastic is going to be biodegraded.
 
