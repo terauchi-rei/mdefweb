@@ -8,6 +8,9 @@ hide:
 
 These last two weeks have been about techs which I thought I would have a tough time. Result is I had so much fun.
 
+[Documentation](https://drive.google.com/file/d/1uFQ9JgH46ygnNdn7DXMc6vYlKiEUrclA/view?usp=sharing)
+
+
 <Forensic Report>
 Firstly we disassembled the machine in order to see what is inside and analyze the maker’s strategies. When we opened the iMac 2006 which was the 2nd generation iMac ever made, we found a lot of Apple's strategic design. (Which is also capitalism point of view)
 Basically Apple products are not allowing users to fix or touch product mechanics. They have the point to keep users patient to buy their next products coming out. If a user ever fixes or touches inside their product, Apple will never help supporting them. BUT how do they get to know if a user touches or not? That was what we found inside the iMac, basically everything inside was covered with aluminium sheet and that was for detecting heat and radiation but also for this- because a user cannot see things inside by tearing it. That really made me think Apple is really good at marketing and design for gaining more money from customers. Recently, they have announced that they will be selling some parts for iphones to let users fix by themselves. Though, I still think there are some strategies behind it.
@@ -37,3 +40,8 @@ Group work was okay, my group somehow had people with good skills of techs and p
 ![](../images/techbeyonthemyth/arm.jpg)
 ![](../images/techbeyonthemyth/hands.jpg)
 ![](../images/techbeyonthemyth/hugmenot.jpg)
+
+I edited the video. 
+
+[HUG ME NOT](https://youtu.be/sqG3SxJUytI)
+
