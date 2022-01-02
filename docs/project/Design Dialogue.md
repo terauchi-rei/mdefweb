@@ -53,7 +53,7 @@ After finishing the workshops, we detect several opportunities to improve the ex
 
 Next attempt we are going to do is designing a toolkit or interface that attracts people to do it everyday with joy and fun.  At the design dialogues exhibition, we have got a lot of feedback on how to make it a daily activity for people at any age and any type of the house. We should make it easy, fun, interactive, smell-less, and space-less. To overcome these important objects, I am going to start off interviewing people who have actually done making compost toolkits. Then we are going to design and do some workshops or probes in order to see how actual compost makers feel about it. At the same time, we are going to open a platform where people can share ideas and fears as well as resources.  That might be open for domestic and neighborhood/city level.
 
-![](../images/designdialogue/booklet_new.jpg)
+![](../images/designdialogue/booket_new.jpg)
 
 ![](../images/designdialogue/poster.jpg)
 
