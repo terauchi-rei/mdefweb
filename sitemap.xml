@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://terauchi-rei.github.io/mdefweb/Fabacademy/01-1st%20Week/</loc>
+         <lastmod>2022-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://terauchi-rei.github.io/mdefweb/Term1/01-Bootcamp/</loc>
          <lastmod>2022-01-31</lastmod>
          <changefreq>daily</changefreq>
@@ -42,6 +47,11 @@
     </url>
     <url>
          <loc>https://terauchi-rei.github.io/mdefweb/Term1/08-Extended%20Intelligence/</loc>
+         <lastmod>2022-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://terauchi-rei.github.io/mdefweb/Term2/01-Designing%20for%20Next%20Billionds%20Seconds/</loc>
          <lastmod>2022-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
