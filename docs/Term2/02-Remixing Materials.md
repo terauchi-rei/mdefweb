@@ -6,7 +6,7 @@ hide:
 **Remixing Materials Jan.13-27**
 ===============
 
-![](../images/eremixingmaterials/S__4104209.jpg)
+![](../images/remixingmaterials/S__4104209.jpg)
 
 These last few weeks, I have been working on  a biomaterial practice both in class and after class.
 I have made a biomaterial only once in my life and it was last term  I did in my house. It was a failure because I did not calculate each ingredient precisely. Now I know why Lara told us to calculate and write everything down that you put in.
@@ -15,8 +15,8 @@ Here is what we did in the class and after class for the biomaterial.
 
 First of all, I brought a crab shell for the food waste additives.
 
-![](../images/eremixingmaterials/S__4104255.jpg)
-![](../images/eremixingmaterials/S__4104251.jpg)
+![](../images/remixingmaterials/S__4104255.jpg)
+![](../images/remixingmaterials/S__4104251.jpg)
 
 1.Agar agar 
 
@@ -27,7 +27,7 @@ First of all, I brought a crab shell for the food waste additives.
 2 spoons of eggshell
 1 pinch of blue powder pigment
 
-![](../images/eremixingmaterials/S__4104248.jpg)
+![](../images/remixingmaterials/S__4104248.jpg)
 
 10 grs. Agar
 200 ml. Water
@@ -35,7 +35,7 @@ First of all, I brought a crab shell for the food waste additives.
 2 ml. Vinegar
 2 spoons of coffee
 
-![](../images/eremixingmaterials/S__4104247.jpg)
+![](../images/remixingmaterials/S__4104247.jpg)
 
 10 grs. Agar
 200 ml. Water
@@ -44,7 +44,7 @@ First of all, I brought a crab shell for the food waste additives.
 2 spoons of crab shell
 1 pinch of red powder pigment
 
-![](../images/eremixingmaterials/S__4104246.jpg)
+![](../images/remixingmaterials/S__4104246.jpg)
 
 My group has made a mistake to put it on a big mold that did not make liquids enough to reach to the edge otherwise it shrank and cracked after when it is dried.
 
@@ -61,7 +61,7 @@ My group has made a mistake to put it on a big mold that did not make liquids en
 Calcium chloride solution
 30 grs. With 500 ml. of H2O
 
-![](../images/eremixingmaterials/S__4104229.jpg)
+![](../images/remixingmaterials/S__4104229.jpg)
 
 
 12.5 grs. Alginate
@@ -74,11 +74,11 @@ Calcium chloride solution
 Calcium chloride solution
 30 grs. With 500 ml. of H2O
 
-![](../images/eremixingmaterials/S__4104230.jpg)
+![](../images/remixingmaterials/S__4104230.jpg)
 
 Also yarns.
 
-![](../images/eremixingmaterials/S__4104222.jpg)
+![](../images/remixingmaterials/S__4104222.jpg)
 
 
 3.Pine resin
@@ -88,7 +88,7 @@ Also yarns.
 5 grs. Carnauba wax
 60 grs. Coffee
 
-![](../images/eremixingmaterials/S__4104208.jpg)
+![](../images/remixingmaterials/S__4104208.jpg)
 
 My group has failed because we put too much coffee which is causing the material to be weak and cracked.
 
@@ -98,7 +98,7 @@ My group has failed because we put too much coffee which is causing the material
 5 grs. Carnauba wax
 40 grs. eggshell,crabshell,orange peel
 
-![](../images/eremixingmaterials/S__4104210.jpg)
+![](../images/remixingmaterials/S__4104210.jpg)
 
 
 For this pine resin recipe, I kind of learned that the amount of  food waste additives differ by the mass of the additives. So after class, when I tried to do it with other molds, I kind of tried to balance to make it not too thick.
@@ -108,15 +108,15 @@ For this pine resin recipe, I kind of learned that the amount of  food waste add
 5 grs. Carnauba wax
 20 grs. Leaves
 
-![](../images/eremixingmaterials/S__4104207.jpg)
-![](../images/eremixingmaterials/S__4104205.jpg)
+![](../images/remixingmaterials/S__4104207.jpg)
+![](../images/remixingmaterials/S__4104205.jpg)
 
 115 grs. Pine resin
 38 ml. Alcohol
 12.5 grs. Carnauba wax
  75 grs. Flowers
 
-![](../images/eremixingmaterials/S__4104200.jpg)
+![](../images/remixingmaterials/S__4104200.jpg)
 
 This is for the mold we made that can have 1mm thick biomaterial.
 
