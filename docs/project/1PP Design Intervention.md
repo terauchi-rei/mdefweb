@@ -12,16 +12,16 @@ I first drew a diagram for the household compost project which I want to archive
 Starting from your food waste at home, it is made into compost that can produce so many things.
 To do this, I need to first try to make a sensor. When I talked with Jonathan and Tomas, they taught us so many references and people that have knowledge and skills for making compost sensors. 
 
-![](../images/1pp/diagram.jpg)
+![](../images/1pp/diagram.png)
 ![](../images/1pp/community.jpg)
-![](../images/1pp/reference.jpg)
+![](../images/1pp/reference.png)
 
 I contacted them and will be in touch soon.
 
 I compared worm compost and aerobic compost by doing both. I did it to design a toolkit that can be used in any kind of compost.
 I summarized it  to see how it differs in the process. It has been only 10days, I can get to know a lot of things. 
 
-![](../images/1pp/compare.jpg)
+![](../images/1pp/compare.png)
 
 As a result, it is case by case and depends on what you want for the compost, though It seems that aerobic compost is the easiest and practical for anyone.
 This comparison shows the sensor should have at least the scale of ph, humidity, temperature, smell features. I think I can also ask the grow observatory what features should be scaled for healthy soil.
