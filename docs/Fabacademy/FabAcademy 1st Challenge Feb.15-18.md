@@ -1,6 +1,8 @@
 *FabAcademy 1st Challenge Feb.15-18**
 ===============
 
+Repository is here below:
+https://github.com/emiliosmith/FabAcademy-challenge
 
 by [Rei Terauchi](https://terauchi-rei.github.io/mdefweb/) & [Emilio Smith](https://emiliosmith.github.io/mdef_emilio2/)
 
