@@ -108,7 +108,7 @@ I also did a test first.
 ![](/images/fabacademy/challenge1/S__4431900.jpg)
 
 It turns transparent when it attaches to something that is 26-31 degrees.
-![](/images/S__4431909.jpg)
+![](/images/fabacademy/challenge1/S__4431909.jpg)
 
 I dried it completely and now it is ready to assemble!
 
