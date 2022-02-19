@@ -71,7 +71,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://terauchi-rei.github.io/mdefweb/Term2/02-Remixing%20Materials/</loc>
+         <loc>https://terauchi-rei.github.io/mdefweb/Term2/02-Remixing%20Materials%20First%20Half/</loc>
+         <lastmod>2022-02-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://terauchi-rei.github.io/mdefweb/Term2/03-Remixing%20Materials%20Second%20Half/</loc>
          <lastmod>2022-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
