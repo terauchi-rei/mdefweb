@@ -15,19 +15,18 @@ By doing this, we have decided to collect flowers that are usually given to the 
 Those flowers are thrown away after turning bad and taken by adjustment cars to the disposal plant.
 Andrea came up with this idea of making a comb with these flowers, because in Spain women wear the traditional comb at the funeral or mourning. 
 
-![](../images/remixingmaterials/Foto 04-02-22 13 49 24.jpg)
-![](../images/remixingmaterials/IMG_8821 (1))
+![](../images/remixingmaterials/1.jpg)
+![](../images/remixingmaterials/IMG_8821.jpg)
 
 Also we wanted to research some practical way for biomaterial rathar than researching material itself.
 
 We first tried to make a biomaterial with these flowers in, with a pine resin recipe. We wanted to cut it for a comb shape but literally we cannot use the cnc machine and it can break.
 
-![](../images/remixingmaterials/IMG_8876 (1))
+![](../images/remixingmaterials/IMG_8876.jpg)
 
 Then we changed our mind to make a mold with a laser and pour biomaterial in. It was too hard to take it out because we didn't put the wax paper on the mold. Although it was impossible to put it because the mold is too detailed.
 
-![](../images/remixingmaterials/Foto 09-02-22 18 54 30.jpg)
-![](../images/remixingmaterials/Foto 09-02-22 18 54 30.jpg)
+![](../images/remixingmaterials/2.jpg)
 
 Result was kind of hard but there might be some way to pursue this.
  I want to think more about how we can actually use the biomaterial for the products. Because now, it is being used in the fashion industry but not in architecture, industrial, etc . Also how these biomaterials can make circulation is the point I also want to research. If it is being disposed of just like all other things are, it is not doing good. Maybe there needs to be a way to dispose it on its own- for example using a compost or something.
@@ -37,7 +36,7 @@ Result was kind of hard but there might be some way to pursue this.
 At the time I also tried to make a fork that can be used for mixing soil. WIth the same process as the comb, I made a mold with a laser and poured biomaterial in. 
 
 ![](../images/remixingmaterials/S__4464682.jpg)
-![](../images/remixingmaterials/IMG_8996)
+![](../images/remixingmaterials/IMG_8996.jpg)
 
 It was also super hard to take it out of the mold, but it turned out to be fine. Actually I wanted to put a stick in which is a hold for the fork, but it was not possible this time.
 
