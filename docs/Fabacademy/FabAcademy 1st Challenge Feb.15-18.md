@@ -140,5 +140,5 @@ I also want to give it to a compost begginer to test how these features can be e
 
 Based on the reflections to the test, I will develop a new version of a compost box.
 
-.![](/images/fabacademy/challenge1/74A214FD-1E8B-47FC-B62E-B4A079C6D372.jpg.jpg)
+.![](/images/fabacademy/challenge1/feature.jpg)
 .![](/images/fabacademy/challenge1/619CDB0E-4B08-4631-9270-84E70D4A134C.jpg)
