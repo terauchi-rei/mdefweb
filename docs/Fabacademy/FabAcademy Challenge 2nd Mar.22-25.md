@@ -29,53 +29,53 @@ We tested with a cylinder if this paste is thick enough to extrude.
 Once the paste looked fine and tasted fine, we put it into the cylinder for the 3D printer. 
 We tried the test printing with a small circle.
 
-.![](../fabchallenge2/3w7AgmXdM15vgqxXv5PC1648207302-1648207390.gif)
-.![](../fabchallenge2/S__5349430.jpg)
-.![](../fabchallenge2/S__5349430.jpg)
+.![](../images/fabacademy/fabchallenge2/3w7AgmXdM15vgqxXv5PC1648207302-1648207390.gif)
+.![](../images/fabacademy/fabchallenge2/S__5349430.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349430.jpg)
 
 It was okay for the first time but as the paste got more dense as it dried out, it became much harder to extrude because it stuck in the extruder.
 
-.![](../fabchallenge2/S__5349427.jpg)
-.![](../fabchallenge2/S__5349423.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349427.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349423.jpg)
 
 Learning from this, we decided to make bread paste a little bit loose. 
 
-.![](../fabchallenge2/S__5349421.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349421.jpg)
 
 First we tried a circle and it went well for several layers.
 
-.![](../fabchallenge2/S__5349416.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349416.jpg)
 
 After that we tried to make our own design of a cookie. 
 
-.![](../fabchallenge2/design.jpg)
-.![](../fabchallenge2/Videotogif.gif)
-.![](../fabchallenge2/Videotogif2.gif)
+.![](../images/fabacademy/fabchallenge2/design.jpg)
+.![](../images/fabacademy/fabchallenge2/Videotogif.gif)
+.![](../images/fabacademy/fabchallenge2/Videotogif2.gif)
 
 Somehow there was something wrong with the code, the paste mixer of the 3D printer did not mix, we fixed it on grasshopper and it extruded constantly.
 
-.![](../fabchallenge2/S__5349391.jpg)
-.![](../fabchallenge2/S__5349389.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349391.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349389.jpg)
 
 This is how cookies look and we tried some of them baked in the oven. Emilio tried it and said it is not bad.
 
-.![](../fabchallenge2/S__5349387.jpg)
-.![](../fabchallenge2/S__5349397.jpg)
-.![](../fabchallenge2/S__5349396.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349387.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349397.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349396.jpg)
 
 #<CNC EXHIBITION STAND & ETC>
 
 We designed them from a sketch and into 3d modeling with Rhino, and cut them with CNC. It was our first time using CNC at IaaC.
 
-.![](../fabchallenge2/1.jpg)
-.![](../fabchallenge2/2.jpg)
-.![](../fabchallenge2/3.jpg)
-.![](../fabchallenge2/4.jpg)
+.![](../images/fabacademy/fabchallenge2/1.jpg)
+.![](../images/fabacademy/fabchallenge2/2.jpg)
+.![](../images/fabacademy/fabchallenge2/3.jpg)
+.![](../images/fabacademy/fabchallenge2/4.jpg)
 
 We designed several different things for the exhibition. One table, two stands, and one push cart.
 We made the data carefully by checking the tolerance and diameter of the pockets.
 
-.![](../fabchallenge2/4.jpg)
+.![](../images/fabacademy/fabchallenge2/4.jpg)
 
 
 ##Problems
@@ -86,7 +86,7 @@ For 3D printing
 -When we tried to print the complex design, the extruder squished the printed paste because it went over the same paths. We thought we needed to model the design that each path goes on the top of another so the extruder will not go on to the other path.
 -Printed paste dried but cracked easily, there needs to be something flexible for the recipe to make paste.
 
-.![](../fabchallenge2/S__5349381.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349381.jpg)
 
 -Maybe normal shapes can be just made with a mold. 
 
