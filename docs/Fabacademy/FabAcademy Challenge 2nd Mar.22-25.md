@@ -1,6 +1,8 @@
 *2nd Fabacademy Challenge**
 ===============
 
+Repo for this project: https://github.com/terauchi-rei/fabchallange2
+
 ##Initial Ideas and Purpose 
 
 This time we have decided to print local food waste in Poblenou to regenerate something edible. Since we have been focusing on food waste and compost for the past design interventions, we have wanted to have another approach to it. Actually we were planning to design a hydroponic chair for this time, but when we came to think about the relation and continuation from our design intervention, we thought that we should keep focusing on the food waste topic. Probably we will work on the hydroponic chair another time. (Also we need to figure out arduino stuff to do it)
