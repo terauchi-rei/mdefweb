@@ -8,8 +8,8 @@ This time we have decided to print local food waste in Poblenou to regenerate so
 ##Link to our project
 For the past few weeks, we have been trying to get engaged in the Poblenou local community, especially those of community gardens and local restaurants in order to make a small circulation in the area. We have been asking if we can get their food waste to make compost in local community gardens to local restaurants, and we have been asking if we can collaborate in making compost for local community gardens.
 
-.![](../fabchallenge2/S__5234729.jpg)
-.![](../fabchallenge2/S__5349426.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5234729.jpg)
+.![](../images/fabacademy/fabchallenge2/S__5349426.jpg)
 
 Recently we have been in touch with this restaurant just across the street of IaaC called Galega, and the owner is so friendly. He gives us a lot of coffee waste and sometimes bread from the day before. Bread can be printed into something like a cookie we found in the article. We decided to 3D print it and exhibit it at the design dialogue as our different perspective/approach to the food waste and compost topic.
 
