@@ -19,58 +19,58 @@ We intend to use this concept to design an interaction between sensors that can 
 1. Humidity sensor sharing data
 2. Soil Mixer connected to wifi/moving with heat generated energy
 
-![](/images/fabacademy/challenge3/S__6307842.jpg)
-![](/fimages/fabacademy/challenge3/protocol.jpeg)
-![](/images/fabacademy/challenge3/ref.jpeg)
+![](../images/fabacademy/challenge3/S__6307842.jpg)
+![](../images/fabacademy/challenge3/protocol.jpeg)
+![](../images/fabacademy/challenge3/ref.jpeg)
 
 # Humidity sensor
 
 This time we tried to use the humidity sensor connected to wifi, in order to make your phone showing the percentage of humidity whenever you connect to the page.  It detects the humidity at every certain time that you control by arduino.
 First, we have this water pump kit that we wanted to use in order to automatically control the humidity of plants/compost.
 
-![](/images/fabacademy/challenge3/kit.jpeg)
+![](../images/fabacademy/challenge3/kit.jpeg)
 
 In theory, if we have this on, we will not let the plants die. We killed some plants when we left them over the holidays.
 
-![](/images/fabacademy/challenge3/S__6438935.jpg)
+![](../images/fabacademy/challenge3/S__6438935.jpg)
 
 We first planned to have this dream image.
 Somehow we wanted to pursue the way that we share collected  data community wise since we are engaged in this community garden in Poblenou.
 Emilio tried hard to control this humidity sensor using an arduino IDE for the CPU we had of ESP32. 
 So many problems happened through this process because the sensor gives the random numbers which indicate the voltage that sensor senses. So it was hard to convert them into the number of percentages. 
 
-![](/images/fabacademy/challenge3/S__6438937.jpg)
-![](/images/fabacademy/challenge3/S__6438947.jpg)
+![](../images/fabacademy/challenge3/S__6438937.jpg)
+![](../images/fabacademy/challenge3/S__6438947.jpg)
 
 Also, the percentage was somehow backward of the actual number. So it was also hard to fix it how it is supposed to be.
 In the end, it is connected to the rechargeable battery to be on its own so it doesn't have to be connected to a computer. With a 3d printed case for both battery and the CPU, it can be embedded in the soil of plants/compost.
 While printing, Emilio worked on the Html to visualize the percentage in a nicer way to show information.
 
-![](/images/fabacademy/challenge3/html.jpeg)
-![](/imagesfabacademy/challenge3//pcb.jpeg)
-![](/images/fabacademy/challenge3/test2.jpeg)
-![](/images/fabacademy/challenge3/test5.jpeg)
-![](/images/fabacademy/challenge3/plants.jpeg)
+![](../images/fabacademy/challenge3/html.jpeg)
+![](../imagesfabacademy/challenge3//pcb.jpeg)
+![](../images/fabacademy/challenge3/test2.jpeg)
+![](../images/fabacademy/challenge3/test5.jpeg)
+![](../images/fabacademy/challenge3/plants.jpeg)
 
 !! It is still in the process. Now printing.
 
-![](/images/fabacademy/challenge3/case.jpeg)
+![](../images/fabacademy/challenge3/case.jpeg)
  
 # Soil Mixer
 Firstly we wanted to use peltiers to generate electricity with the heat of compost. So we  tried how it works and at which degrees of temperature that it can generate electricity. It is called waste heat power generation.
 
-![](/images/fabacademy/challenge3/coffeee.jpeg)
-![](/images/fabacademy/challenge3/peltier.jpeg)
+![](../images/fabacademy/challenge3/coffeee.jpeg)
+![](../images/fabacademy/challenge3/peltier.jpeg)
 
 We first tried with the motor, heating up the peltier with a heat gun, also checking the temperature with a thermometer.
 It looks like it(one peltier) can move the motor at 60 degrees. 
 
-![](/images/fabacademy/challenge3/motor.gif)
+![](../images/fabacademy/challenge3/motor.gif)
 
 While leaving some soil outside under sun with the acrylic sphere cover, it reaches 35 degrees or more. In theory, the website says that it can reach up to 65 degrees.
 
-![](/images/fabacademy/challenge3/S__6438933.jpg)
-![](/images/fabacademy/challenge3/compost.jpeg)
+![](../images/fabacademy/challenge3/S__6438933.jpg)
+![](../images/fabacademy/challenge3/compost.jpeg)
 
 The peltier I got was this.Max 12 volts and 6A.
 Then I tried to move the water pump that requires 3 or 5 volts. I connected two peltiers to generate electricity that must be enough to turn on the water pump.
@@ -81,14 +81,14 @@ In the end, with only 2 peltiers, it is impossible to generate enough energy to 
 Peltiers moved the motor, so we decided to use the motor for the soil mixer. So probably we can control the compost mixer with its heat.
 We first set up this breadboard work, for making a motor work with the light so we can later change the protocol to make it work with the heat and with the peltier.
 
-![](/images/fabacademy/challenge3/S__6438939.jpg)
-![](/images/fabacademy/challenge3/mixer.jpeg)
-![](/images/fabacademy/challenge3/S__6438932_0.jpg)
+![](../images/fabacademy/challenge3/S__6438939.jpg)
+![](../images/fabacademy/challenge3/mixer.jpeg)
+![](../images/fabacademy/challenge3/S__6438932_0.jpg)
 
 
 Though, somehow it didn’t work even with the computer. So we are stuck here.
 
-![](/images/fabacademy/challenge3/arduino.jpeg)
+![](../images/fabacademy/challenge3/arduino.jpeg)
 
 At one time, we 3d printed a mixer propeller so it can be attached to the motor.
 
