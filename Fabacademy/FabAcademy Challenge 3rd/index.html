@@ -846,41 +846,41 @@ We intend to use this concept to design an interaction between sensors that can 
 <li>Humidity sensor sharing data</li>
 <li>Soil Mixer connected to wifi/moving with heat generated energy</li>
 </ol>
-<p><img alt="" src="/images/fabacademy/challenge3/S__6307842.jpg" />
-<img alt="" src="/fimages/fabacademy/challenge3/protocol.jpeg" />
-<img alt="" src="/images/fabacademy/challenge3/ref.jpeg" /></p>
+<p><img alt="" src="../../images/fabacademy/challenge3/S__6307842.jpg" />
+<img alt="" src="../../images/fabacademy/challenge3/protocol.jpeg" />
+<img alt="" src="../../images/fabacademy/challenge3/ref.jpeg" /></p>
 <h1 id="humidity-sensor">Humidity sensor<a class="headerlink" href="#humidity-sensor" title="Permanent link">&para;</a></h1>
 <p>This time we tried to use the humidity sensor connected to wifi, in order to make your phone showing the percentage of humidity whenever you connect to the page.  It detects the humidity at every certain time that you control by arduino.
 First, we have this water pump kit that we wanted to use in order to automatically control the humidity of plants/compost.</p>
-<p><img alt="" src="/images/fabacademy/challenge3/kit.jpeg" /></p>
+<p><img alt="" src="../../images/fabacademy/challenge3/kit.jpeg" /></p>
 <p>In theory, if we have this on, we will not let the plants die. We killed some plants when we left them over the holidays.</p>
-<p><img alt="" src="/images/fabacademy/challenge3/S__6438935.jpg" /></p>
+<p><img alt="" src="../../images/fabacademy/challenge3/S__6438935.jpg" /></p>
 <p>We first planned to have this dream image.
 Somehow we wanted to pursue the way that we share collected  data community wise since we are engaged in this community garden in Poblenou.
 Emilio tried hard to control this humidity sensor using an arduino IDE for the CPU we had of ESP32. 
 So many problems happened through this process because the sensor gives the random numbers which indicate the voltage that sensor senses. So it was hard to convert them into the number of percentages. </p>
-<p><img alt="" src="/images/fabacademy/challenge3/S__6438937.jpg" />
-<img alt="" src="/images/fabacademy/challenge3/S__6438947.jpg" /></p>
+<p><img alt="" src="../../images/fabacademy/challenge3/S__6438937.jpg" />
+<img alt="" src="../../images/fabacademy/challenge3/S__6438947.jpg" /></p>
 <p>Also, the percentage was somehow backward of the actual number. So it was also hard to fix it how it is supposed to be.
 In the end, it is connected to the rechargeable battery to be on its own so it doesn&rsquo;t have to be connected to a computer. With a 3d printed case for both battery and the CPU, it can be embedded in the soil of plants/compost.
 While printing, Emilio worked on the Html to visualize the percentage in a nicer way to show information.</p>
-<p><img alt="" src="/images/fabacademy/challenge3/html.jpeg" />
-<img alt="" src="/imagesfabacademy/challenge3//pcb.jpeg" />
-<img alt="" src="/images/fabacademy/challenge3/test2.jpeg" />
-<img alt="" src="/images/fabacademy/challenge3/test5.jpeg" />
-<img alt="" src="/images/fabacademy/challenge3/plants.jpeg" /></p>
+<p><img alt="" src="../../images/fabacademy/challenge3/html.jpeg" />
+<img alt="" src="../imagesfabacademy/challenge3//pcb.jpeg" />
+<img alt="" src="../../images/fabacademy/challenge3/test2.jpeg" />
+<img alt="" src="../../images/fabacademy/challenge3/test5.jpeg" />
+<img alt="" src="../../images/fabacademy/challenge3/plants.jpeg" /></p>
 <p>!! It is still in the process. Now printing.</p>
-<p><img alt="" src="/images/fabacademy/challenge3/case.jpeg" /></p>
+<p><img alt="" src="../images/fabacademy/challenge3/case.jpeg" /></p>
 <h1 id="soil-mixer">Soil Mixer<a class="headerlink" href="#soil-mixer" title="Permanent link">&para;</a></h1>
 <p>Firstly we wanted to use peltiers to generate electricity with the heat of compost. So we  tried how it works and at which degrees of temperature that it can generate electricity. It is called waste heat power generation.</p>
-<p><img alt="" src="/images/fabacademy/challenge3/coffeee.jpeg" />
-<img alt="" src="/images/fabacademy/challenge3/peltier.jpeg" /></p>
+<p><img alt="" src="../images/fabacademy/challenge3/coffeee.jpeg" />
+<img alt="" src="../../images/fabacademy/challenge3/peltier.jpeg" /></p>
 <p>We first tried with the motor, heating up the peltier with a heat gun, also checking the temperature with a thermometer.
 It looks like it(one peltier) can move the motor at 60 degrees. </p>
-<p><img alt="" src="/images/fabacademy/challenge3/motor.gif" /></p>
+<p><img alt="" src="../../images/fabacademy/challenge3/motor.gif" /></p>
 <p>While leaving some soil outside under sun with the acrylic sphere cover, it reaches 35 degrees or more. In theory, the website says that it can reach up to 65 degrees.</p>
-<p><img alt="" src="/images/fabacademy/challenge3/S__6438933.jpg" />
-<img alt="" src="/images/fabacademy/challenge3/compost.jpeg" /></p>
+<p><img alt="" src="../../images/fabacademy/challenge3/S__6438933.jpg" />
+<img alt="" src="../../images/fabacademy/challenge3/compost.jpeg" /></p>
 <p>The peltier I got was this.Max 12 volts and 6A.
 Then I tried to move the water pump that requires 3 or 5 volts. I connected two peltiers to generate electricity that must be enough to turn on the water pump.
 Though it didn&rsquo;t work. So there needs to be more voltage or amperage. Rei checked up how much the water pump requires to move, then there should be 3v with amperage of or 1.5v with more than 200 amperage. 
@@ -888,11 +888,11 @@ Rei tried to connect peltiers in both parallel / linear to solve this but it did
 In the end, with only 2 peltiers, it is impossible to generate enough energy to make a water pump work. So Rei decided not to use the water pump this time.  Victor introduced  the Stirling engine which we want to try next time.</p>
 <p>Peltiers moved the motor, so we decided to use the motor for the soil mixer. So probably we can control the compost mixer with its heat.
 We first set up this breadboard work, for making a motor work with the light so we can later change the protocol to make it work with the heat and with the peltier.</p>
-<p><img alt="" src="/images/fabacademy/challenge3/S__6438939.jpg" />
-<img alt="" src="/images/fabacademy/challenge3/mixer.jpeg" />
-<img alt="" src="/images/fabacademy/challenge3/S__6438932_0.jpg" /></p>
+<p><img alt="" src="../../images/fabacademy/challenge3/S__6438939.jpg" />
+<img alt="" src="../../images/fabacademy/challenge3/mixer.jpeg" />
+<img alt="" src="../../images/fabacademy/challenge3/S__6438932_0.jpg" /></p>
 <p>Though, somehow it didn’t work even with the computer. So we are stuck here.</p>
-<p><img alt="" src="/images/fabacademy/challenge3/arduino.jpeg" /></p>
+<p><img alt="" src="../../images/fabacademy/challenge3/arduino.jpeg" /></p>
 <p>At one time, we 3d printed a mixer propeller so it can be attached to the motor.</p>
 <h2 id="problems">Problems<a class="headerlink" href="#problems" title="Permanent link">&para;</a></h2>
 <p>-the sensor was not stable. We struggled to figure out the sensor was properly working.
