@@ -13,10 +13,10 @@ You Can see this humidity percentage as long as you are connected to the IP addr
  
 Networking Plan
 
-![](../images/fabacademy/week3/protocol.jpeg)
+![](../images/fabacademy/week14/protocol.jpeg)
 
 How it gets data from a sensor plants.
-![](../images/fabacademy/week3/plants.jpeg)
+![](../images/fabacademy/week14/plants.jpeg)
 
 Here is the code below.
-![](../images/fabacademy/week3/arduino.jpeg)
+![](../images/fabacademy/week14/arduino.jpeg)

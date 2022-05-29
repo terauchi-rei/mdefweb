@@ -12,6 +12,6 @@ Continuous work and part of work for the fabchallenge3, the humidity that you ca
 ![](../images/fabacademy/week15/test5.jpeg)
 
 Coding below.
-![](../images/fabacademy/week3/arduino.jpg)
+![](../images/fabacademy/week15/arduino.jpg)
 
 
