@@ -12,3 +12,4 @@ With the design of the circuit we did for week6.
 We will make a PCB board and milling for week 10&13 also with a part of this project.
 
 ![](../images/fabacademy/week8/S__7061523.jpg)
+![](../images/fabacademy/week8/arduino2.jpg)
