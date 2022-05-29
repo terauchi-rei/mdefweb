@@ -10,3 +10,5 @@ As part of the week 6 electronic design, the circuit also turns the led on as th
 With the design of the circuit we did for week6.
 
 We will make a PCB board and milling for week 10&13 also with a part of this project.
+
+![](../images/fabacademy/week8/S__7061523.jpg)
