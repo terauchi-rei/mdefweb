@@ -8,7 +8,7 @@ hide:
 For this week I learned the different types of networking. Wired/wireless and types of topology. I think this theory/logic is applied to a network-based project such as one I am trying to develop for the compost project.
 My ideal network made by a platform could look like the fully connected topology which all the participants are connected or the ring topology that participants are connected one another without a center. Both are decentralized ideas and I think it is difficult to control but ideal for making democratic network.
 
-![](../images/fabacademy/week14/2.jpeg)
+![](../images/fabacademy/week14/2.jpg)
 
 For the task, I did it at home with my partner. I used two ESP32 and connected them TX,RX and the GND by using a breadboard since I didn’t have any female to female wires.
 
